@@ -1,4 +1,4 @@
-```gitignore
+```gitignore id="awppdg"
 node_modules
 dist
 .vite
